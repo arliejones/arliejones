@@ -1,5 +1,5 @@
 - Hi, I’m Arlie!
-- I’m interested in automation, defi, data engineering... anything involving FinTech!
+- I’m interested in automation, defi, data engineering... anything involving Finance+Tech!
 - I’m currently learning how to use Python for financial analysis and will soon be proficient in machine learning and blockchain.
 - I have experience in the private equity world, specifically real estate finance, and currently looking for employment in the FinTech space! 
 - My LinkedIn is : https://www.linkedin.com/in/arlie-jones-020092159/
