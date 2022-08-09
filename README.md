@@ -15,7 +15,7 @@ Hi, I'm Arlie Jones!
 <br/>
 <p align="center">
 	<a href="https://github.com/arliejones">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=FinTech+Enthusiast;Python+Developer;Data+Analyst;Blockchain+and+Smart+Contracts;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=FinTech+Enthusiast;Python+Developer;Data+Analyst;Blockchain|Smart+Contracts;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
@@ -32,13 +32,15 @@ Hi, I'm Arlie Jones!
 </p>
 
 <h3 align="center">
-⚙️ Frameworks and Libraries
+⚙️ Frameworks/Libraries/Skills
 </h3>
 
 <p align = "center">
 	<a href="https://github.com/arliejones"><img alt="Pandas"src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
 	<a href="https://github.com/arliejones"><img alt="NumPy"src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
-	<a href="https://github.com/arliejones"><img alt="Ethereum"src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"></a>
+	<a href="https://github.com/arliejones"><img alt="Keras"src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"></a>
+	<a href="https://github.com/arliejones"><img alt="TensorFlow"src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
+	<a href="https://github.com/arliejones"><img alt="Scikit-learn"src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
 	<a href="https://github.com/arliejones"><img alt="Ethereum"src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"></a>
 	
 
@@ -50,6 +52,7 @@ Hi, I'm Arlie Jones!
 
 <p align="center">
 	<a href="https://github.com/arliejones"><img alt="AWS"src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+	<a href="https://github.com/arliejones"><img alt="SQLite"src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 </p>
 
 <h3 align="center">
@@ -68,9 +71,11 @@ Hi, I'm Arlie Jones!
 </h3>
 
 <p align="center">
-	<a href="mailto:arliejones98@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/arlie-jones-020092159/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/arliejones"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="mailto:arliejones98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/arlie-jones-020092159/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://angel.co/u/arlie-jones"><img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" alt="AngelList"/></a>
+	<a href="https://www.hackerrank.com/arliejones98"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/></a>
+	<a href="https://github.com/arliejones"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 
