@@ -26,6 +26,11 @@ Hi, I'm Arlie Jones!
 	<a href="https://github.com/arliejones"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
+### 👨‍💻 Programming Languages
+<p>
+	<a href="https://github.com/arliejones"><img alt="Python"src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+	<a href="https://github.com/arliejones"><img alt="HTML"src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
+	<a href="https://github.com/arliejones"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"></a>
 
 
 
