@@ -66,6 +66,8 @@ Hi, I'm Arlie Jones!
 	
 </p>
 
+<img align="center" width="100%" src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" />
+
 <h3 align="center">
 🤝 Connect with me
 </h3>
@@ -77,8 +79,4 @@ Hi, I'm Arlie Jones!
 	<a href="https://www.hackerrank.com/arliejones98"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/></a>
 	<a href="https://github.com/arliejones"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
-
-
-
-
 
