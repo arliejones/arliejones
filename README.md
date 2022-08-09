@@ -31,8 +31,11 @@ Hi, I'm Arlie Jones!
 	
 </p>
 
-### ⚙️ Frameworks and Libraries
-<p>
+<h3 align="center">
+⚙️ Frameworks and Libraries
+</h3>
+
+<p align = "center">
 	<a href="https://github.com/arliejones"><img alt="Pandas"src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
 	<a href="https://github.com/arliejones"><img alt="NumPy"src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
 	<a href="https://github.com/arliejones"><img alt="Ethereum"src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"></a>
@@ -41,23 +44,30 @@ Hi, I'm Arlie Jones!
 
 </p>
 
+<h3 align="center">
+☁️ Databases and Cloud Hosting
+</h3>
 
-### ☁️ Databases and Cloud Hosting
-<p>
+<p align="center">
 	<a href="https://github.com/arliejones"><img alt="AWS"src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
 </p>
 
-### 🧰 IDEs & Tools
-<p>
+<h3 align="center">
+🧰 IDEs & Tools
+</h3>
+
+<p align="center">
 	<a href="https://github.com/arliejones"><img alt="Anaconda"src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
 	<a href="https://github.com/arliejones"><img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
 	<a href="https://github.com/arliejones"><img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
 	
 </p>
 
+<h3 align="center">
+🤝 Connect with me
+</h3>
 
-### 🤝 Connect with me
-<p align="left">
+<p align="center">
 	<a href="mailto:arliejones98@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/arlie-jones-020092159/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/arliejones"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
