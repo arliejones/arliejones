@@ -19,18 +19,39 @@ Hi, I'm Arlie Jones!
 	</a>
 </p>
 
-## 🤝 Connect with me
+----
+
+### 💻 Programming Languages
+<p>
+	<a href="https://github.com/arliejones"><img alt="Python"src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+	<a href="https://github.com/arliejones"><img alt="HTML"src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
+	<a href="https://github.com/arliejones"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"></a>
+	
+</p>
+
+### ⚙️ Frameworks and Libraries
+<p>
+
+</p>
+
+
+### ☁️ Databases and Cloud Hosting
+<p>
+
+</p>
+
+### 🧰 IDEs & Tools
+<p>
+
+</p>
+
+
+### 🤝 Connect with me
 <p align="left">
 	<a href="mailto:arliejones98@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/arlie-jones-020092159/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/arliejones"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
-
-### 👨‍💻 Programming Languages
-<p>
-	<a href="https://github.com/arliejones"><img alt="Python"src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-	<a href="https://github.com/arliejones"><img alt="HTML"src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
-	<a href="https://github.com/arliejones"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"></a>
 
 
 
