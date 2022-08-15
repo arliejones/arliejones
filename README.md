@@ -42,7 +42,7 @@ Hi, I'm Arlie Jones!
 	<a href="https://github.com/arliejones"><img alt="TensorFlow"src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
 	<a href="https://github.com/arliejones"><img alt="Scikit-learn"src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
 	<a href="https://github.com/arliejones"><img alt="Ethereum"src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"></a>
-	
+	<a href="https://github.com/arliejones"><img alt="Streamlit"src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"></a>
 
 </p>
 
