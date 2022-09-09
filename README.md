@@ -26,7 +26,6 @@ Hi, I'm Arlie Jones!
 
 <p align="center">
 	<a href="https://github.com/arliejones"><img alt="Python"src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-	<a href="https://github.com/arliejones"><img alt="HTML"src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
 	<a href="https://github.com/arliejones"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"></a>
 	
 </p>
