@@ -53,6 +53,7 @@ Hi, I'm Arlie Jones!
 <p align="center">
 	<a href="https://github.com/arliejones"><img alt="AWS"src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
 	<a href="https://github.com/arliejones"><img alt="SQLite"src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+	<a href="https://github.com/arliejones"><img alt="SQLite"src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 </p>
 
 <h3 align="center">
